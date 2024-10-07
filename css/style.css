@@ -1,0 +1,15 @@
+#hero{
+    background-image: url(../images/pexels-avinashpatel-808463.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#hero .d-flex{
+    height: 70vh;
+  }
+
+.body{
+    font-family: "Tilt Warp", sans-serif;
+
+}  
